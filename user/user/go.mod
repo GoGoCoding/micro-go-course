@@ -1,4 +1,4 @@
-module github.com/gogocoding/micro-go-course
+module github.com/gogocoding/micro-go-course/user
 
 go 1.15
 
